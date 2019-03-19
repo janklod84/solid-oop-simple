@@ -1,0 +1,15 @@
+{
+    "name": "janklod/solid",
+    "authors": [
+        {
+            "name": "janklod84",
+            "email": "jeanyao34@yahoo.com"
+        }
+    ],
+	"autoload": {
+	  "psr-4": {
+	    "SOLID\\": "src/"
+	  }
+	},
+    "require": {}
+}
